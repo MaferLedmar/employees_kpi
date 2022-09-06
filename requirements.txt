@@ -3,3 +3,4 @@ altair
 pandas
 numpy
 matplotlib
+plotly.express
